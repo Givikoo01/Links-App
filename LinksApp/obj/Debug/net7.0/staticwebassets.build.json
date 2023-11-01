@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "YhIhWm1TIniaakHbrGp3o56NV+3GFvbE/z3v/JDWMEo=",
+  "Source": "LinksApp",
+  "BasePath": "_content/LinksApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LinksApp\\wwwroot",
+      "Source": "LinksApp",
+      "ContentRoot": "C:\\Users\\Givi\\source\\repos\\LinksApp\\LinksApp\\wwwroot\\",
+      "BasePath": "_content/LinksApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Givi\\source\\repos\\LinksApp\\LinksApp\\wwwroot\\StyleSheet.css",
+      "SourceId": "LinksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Givi\\source\\repos\\LinksApp\\LinksApp\\wwwroot\\",
+      "BasePath": "_content/LinksApp",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
